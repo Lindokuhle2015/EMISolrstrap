@@ -1,3 +1,7 @@
+# SARAOU RFI Solrstrap
+For our implementation I just made the original Solrstrap html to point to our Solr instance for EMIData and made it search the "text" field for hits.
+Hopefully the Solrstrap can be improved to show culprit frequency information as well as location information.
+
 # Solrstrap
 
 [Solrstrap](http://fergiemcdowall.github.com/solrstrap/) is a Query-Result interface for Solr. [Solrstrap](http://fergiemcdowall.github.com/solrstrap/) is intended to be a starting point for those building web interfaces that talk to Solr, or a very lightweight admin tool for querying Solr in a Googleish fashion.
