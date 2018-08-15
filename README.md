@@ -1,4 +1,4 @@
-# SARAOU RFI Solrstrap
+# SARAO RFI Solrstrap
 For our implementation I just made the original Solrstrap html to point to our Solr instance for EMIData and made it search the "text" field for hits.
 Hopefully the Solrstrap can be improved to show culprit frequency information as well as location information.
 
